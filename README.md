@@ -22,4 +22,4 @@ This repository demonstrates GitHub skills including:
 ## 🗂️ Repository Structure
 - `docs/` - Project documentation and learning reflections
 - `scripts/` - Python scripts for GIS workflows
-- `data/` - Placeholder for future spatial data
+- `data/` - Holds the place for future spatial data
