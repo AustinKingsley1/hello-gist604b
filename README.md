@@ -46,20 +46,20 @@ Create a new file in the `docs/` folder:
 ```markdown
 # Learning Log - M1A3 GitHub Repository Management
 
-**Student:** [Your Name]  
-**Date:** [Today's Date]
+**Student:** Austin Kingsley  
+**Date:** 10/26/25
 
 ## What I Learned
 In this assignment, I learned:
-- [Describe 2-3 key things you learned about GitHub]
-- [How Issues help teams collaborate]
-- [Why documentation matters in open source projects]
+- The key things I learned about GitHub is that you can use it as an open source for collaboration, as well as a media platform to market and document your tangible creations.
+- Issues help teams collaborate by giving a workflow for solving specific issues.
+- Documentation matters so much in open-source because of the de-centralized nature and lack of structured accountability that beauracracy would typically enforce.
 
 ## Challenges and Solutions
-[Describe 1-2 challenges you faced and how you overcame them. Examples: creating folders in GitHub, understanding the two-repository workflow, writing markdown]
+A big challenge that I overcame with GitHub was navitgating through the repositpry.  I needed to see the structure visualized in a branch and map format to overcome this.
 
 ## Connection to My GIS Career
-[Explain in 2-3 sentences how GitHub skills will help you in your GIS career. Think about portfolio building, collaboration, contributing to open source projects]
+GitHub will allow me the ooportunity to provide proof of my creations and market them to prospective employers, open me up to project contributions I would have never known about, and serve as a collaboration tool between me and my professional connections.
 
 ## Open Source Workflow Understanding
 Creating my own repository (`hello-gist604b`) mirrors the open source contribution process. In real projects, developers fork existing repositories, make improvements, and submit contributions - similar to how I created this repository and linked it to the assignment system.
