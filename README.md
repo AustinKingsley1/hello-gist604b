@@ -23,8 +23,3 @@ This repository demonstrates GitHub skills including:
 - `docs/` - Project documentation and learning reflections
 - `scripts/` - Python scripts for GIS workflows
 - `data/` - Placeholder for future spatial data
-
-## 🚀 Usage
-To run the hello script:
-```bash
-python scripts/hello.py
