@@ -28,5 +28,3 @@ This repository demonstrates GitHub skills including:
 To run the hello script:
 ```bash
 python scripts/hello.py
-
-Creating my own repository (`hello-gist604b`) mirrors the open source contribution process. In real projects, developers fork existing repositories, make improvements, and submit contributions - similar to how I created this repository and linked it to the assignment system.
